@@ -1,6 +1,5 @@
 /*** 
 matrix.c
-Midterm, Problem #2
 Program: creates and populates an 8 x 10 matrix, transposes matrix
 Author: O. Minkina
 Date: 2/22/18 
