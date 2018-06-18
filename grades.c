@@ -1,6 +1,5 @@
 /*** 
 grades.c
-Midterm, Problem #1
 Program: Calculates frequency of grades A-F.
 Author: O. Minkina
 Date: 2/27/18
